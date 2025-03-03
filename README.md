@@ -76,7 +76,7 @@ A aplicação espera uma planilha Excel com a aba chamada "Planilha1" e as segui
 
 5. Visualize a Matriz 9 Box e, se houver apenas um colaborador filtrado, gere o relatório em PDF clicando no botão de download.
 
-6. Ou abra o aplicativo diretamente em https://matriz-9-box.streamlit.app 
+6. Você pode abrir o aplicativo diretamente em https://matriz-9-box.streamlit.app 
 
 ## Exemplos de uso
 
