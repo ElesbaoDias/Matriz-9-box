@@ -13,6 +13,7 @@ A Matriz 9 Box é uma ferramenta amplamente utilizada em gestão de Recursos Hum
 
 ## Funcionalidades
 
+- **Autenticação Segura**: O acesso a Matriz 9 Box é protegido por uma tela de login que exige um e-mail válido.
 - **Upload de Planilha**: Carregue um arquivo Excel com os dados dos colaboradores.
 - **Filtros Interativos**: Filtre os dados por data, função, loja ou nome diretamente na interface.
 - **Matriz 9 Box**: Visualize os colaboradores em uma matriz 3x3 com quadrantes como "Alto Potencial", "Enigma", "Insuficiente", etc.
@@ -76,7 +77,7 @@ A aplicação espera uma planilha Excel com a aba chamada "Planilha1" e as segui
 
 5. Visualize a Matriz 9 Box e, se houver apenas um colaborador filtrado, gere o relatório em PDF clicando no botão de download.
 
-6. Você pode abrir o aplicativo diretamente em https://matriz-9-box.streamlit.app 
+6. Você pode abrir o aplicativo diretamente em [**Matriz 9 Box**](https://matriz-9-box.streamlit.app)
 
 ## Exemplos de uso
 
