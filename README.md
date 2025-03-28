@@ -24,10 +24,11 @@ A Matriz 9 Box é uma ferramenta amplamente utilizada em gestão de Recursos Hum
 
 A aplicação espera uma planilha Excel com a aba chamada "Planilha1" e as seguintes colunas:
 
+- **Avaliador**: Nome do avaliador.
 - **Nome**: Nome do colaborador.
 - **Data**: Data da avaliação (formato: DD/MM/AAAA).
 - **Função**: Cargo ou função do colaborador.
-- **Loja**: Local de trabalho (opcional).
+- **Loja**: Local de trabalho.
 - **1-[Pergunta] a 5-[Pergunta]**: 5 perguntas de desempenho (ex.: "1-Atingimento de metas"), com valores de 1 a 5.
 - **6-[Pergunta] a 10-[Pergunta]**: 5 perguntas de potencial (ex.: "6-Potencial 1"), com valores de 1 a 5.
 
