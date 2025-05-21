@@ -86,6 +86,11 @@ O app está disponível online e pode ser acessado diretamente:
 
 🔗 [https://matriz-9-box.streamlit.app/](https://matriz-9-box.streamlit.app)
 
+## 📊 Arquivo de Exemplo
+
+Baixe o modelo pronto para uso:  
+[Exemplo.xlsx](./Exemplo.xlsx)
+
 ## Exemplos de uso
 
 1. Carregue uma planilha com dados de colaboradores.
@@ -96,23 +101,13 @@ O app está disponível online e pode ser acessado diretamente:
 
 4. Selecione um único colaborador para ver os detalhes e baixar o relatório em PDF.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests com melhorias, como:
-
-- `Suporte a mais formatos de entrada (CSV, etc.).`
-- `Personalização dos quadrantes ou critérios de avaliação.`
-- `Melhorias na interface do usuário.`
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT .
 
-## Contato
-
-Se tiver dúvidas ou sugestões, entre em contato pelo GitHub ou abra uma issue.
-
-
-
+## 👨💻 Autor
+**Fábio Dias**  
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> LinkedIn](https://www.linkedin.com/in/fabio-data-science)  
+[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> Email](mailto:fabiodias.elesbao@gmail.com)
 
    
